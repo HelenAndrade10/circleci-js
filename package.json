@@ -1,0 +1,19 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "A basic Node.js project",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js",
+      "build": "webpack"
+    },
+    "keywords": [
+      "node",
+      "javascript"
+    ],
+    "author": "Helen Andrade",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
